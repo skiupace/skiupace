@@ -1,4 +1,4 @@
-- Hi there!, I’m tomino47
+- Hi there!, I’m @tomino47 or u can call me tom
 - I’m interested in Programming in all languages
 - And I’m currently learning C++
 
