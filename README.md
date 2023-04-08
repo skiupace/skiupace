@@ -1,5 +1,5 @@
 # 💫 About Me:
-A computer science student<br>- I'm currently learning C++<br>----------------------------------------<br>"And planing to do some<br>amazing projects in the future :)".
+A computer science student<br>- I'm currently learning C++<br>---------------------------------------<br>"And planing to do some<br>amazing projects in the future :)".
 
 
 # 💻 Tech Stack:
