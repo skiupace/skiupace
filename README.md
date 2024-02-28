@@ -1,7 +1,7 @@
 # 💫 About Me:
-- An IT Student, and a Software Engineer.
-<br>- Intrested in OpenSource Software, and Full Stack WebDevelopment.<br>
-<br>--------------------------------------------------------------------------------------------<br>
+- An IT Student, and a Software Engineer.<br>
+- Intrested in OpenSource Software, and Full Stack WebDevelopment.<br>
+--------------------------------------------------------------------------------------------<br>
 
 
 ## 🌐 Socials:
