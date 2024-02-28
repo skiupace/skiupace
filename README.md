@@ -1,7 +1,7 @@
 # 💫 About Me:
 - An IT Student, and a Software Engineer<br>
 - Intrested in OpenSource Software, and Full Stack WebDevelopment.
-<br>-----------------------------------------------------------------------------------------------------<br>
+<br>--------------------------------------------------------------------------------------------<br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
