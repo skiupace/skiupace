@@ -1,5 +1,5 @@
 # 💫 About Me:
-- a CS Student, and a Software Engineer.<br>
+- Software Engineering Student<br>
 - Intrested in OpenSource Software, and Full Stack Development.<br>
 -----------------------------------------------------------------------------------
 
