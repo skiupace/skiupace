@@ -1,6 +1,7 @@
 # 💫 About Me:
 - Cracked SWE.
-- OpenSource Enjoyer + FullStack Developer.
+- OpenSource Enjoyer.
+- FullStack Developer.
 
 
 # 💻 Tech Stack:
